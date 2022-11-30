@@ -1,0 +1,15 @@
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\bin\Debug\net6.0\Balance.Worker.Service.deps.json
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\bin\Debug\net6.0\Balance.Worker.Service.dll
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\bin\Debug\net6.0\ref\Balance.Worker.Service.dll
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\bin\Debug\net6.0\Balance.Worker.Service.pdb
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\bin\Debug\net6.0\Balance.Worker.Data.dll
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\bin\Debug\net6.0\Balance.Worker.Data.pdb
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\obj\Debug\net6.0\Balance.Worker.Service.csproj.AssemblyReference.cache
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\obj\Debug\net6.0\Balance.Worker.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\obj\Debug\net6.0\Balance.Worker.Service.AssemblyInfoInputs.cache
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\obj\Debug\net6.0\Balance.Worker.Service.AssemblyInfo.cs
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\obj\Debug\net6.0\Balance.Worker.Service.csproj.CoreCompileInputs.cache
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\obj\Debug\net6.0\Balance.Worker.Service.csproj.CopyComplete
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\obj\Debug\net6.0\Balance.Worker.Service.dll
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\obj\Debug\net6.0\ref\Balance.Worker.Service.dll
+C:\Users\mbaraujo\source\repos\Balance.Worker\Balance.Worker.Service\obj\Debug\net6.0\Balance.Worker.Service.pdb
