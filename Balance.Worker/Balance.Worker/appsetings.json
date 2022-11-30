@@ -1,0 +1,10 @@
+{
+  "ConnectionStrings": {
+    "SqlServerDbContext": ""
+  },
+  "Email": {
+    "User": "m@outlook.com",
+    "Password": "12345678",
+    "To": "mm@outlook.com"
+  }
+}
